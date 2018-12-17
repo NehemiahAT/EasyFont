@@ -1,0 +1,185 @@
+/* v. 1.7 */
+.i,
+#i {
+  font-style: italic;
+}
+.b,
+#b {
+  font-weight: bold;
+}
+
+.u,
+#u {
+  text-decoration: underline;
+}
+
+.tt,
+#tt {
+  font-family: lucida console, courier, modern, rod, monospace;
+}
+.s,
+#s {
+  text-decoration: line-through;
+}
+.o,
+#o {
+  text-decoration: overline;
+}
+
+.center,
+#center {
+  text-align: center;
+}
+.right,
+#right {
+  text-align: right;
+}
+.left,
+#left {
+  text-align: left;
+}
+
+.size-1,
+#size-1 {
+  font-size: 5px;
+}
+.size-2,
+#size-2 {
+  font-size: 20px;
+}
+.size-3,
+#size-3 {
+  font-size: 30px;
+}
+.size-4,
+#size-4 {
+  font-size: 40px;
+}
+
+.arial,
+#arial {
+  font-family: arial;
+}
+.algerian,
+#algerian {
+  font-family: algerian;
+} /* Algerian doesn't work on some devices */
+.bookman,
+#bookman {
+  font-family: bookman;
+}
+.braggadocio,
+#braggadocio {
+  font-family: braggadocio;
+}
+.courier,
+#courier {
+  font-family: courier;
+}
+.desdemona,
+#desdemona {
+  font-family: desdemona;
+}
+.garamond,
+#garamond {
+  font-family: garamond;
+}
+.modern,
+#modern {
+  font-family: modern;
+}
+.symbol,
+#symbol {
+  font-family: symbol;
+}
+.wingdings,
+#wingdings {
+  font-family: wingdings;
+}
+
+.sups,
+#sups {
+  vertical-align: super;
+  font-size: smaller;
+}
+.subs,
+#subs {
+  vertical-align: sub;
+  font-size: smaller;
+}
+.supl,
+#supl {
+  vertical-align: super;
+  font-size: larger;
+}
+.subl,
+#subl {
+  vertical-align: sub;
+  font-size: larger;
+}
+
+.white,
+#white {
+  color: white;
+}
+.silver,
+#silver {
+  color: silver;
+}
+.gray,
+#gray {
+  color: gray;
+}
+.black,
+#black {
+  color: black;
+}
+.red,
+#red {
+  color: red;
+}
+.maroon,
+#maroon {
+  color: maroon;
+}
+.yellow,
+#yellow {
+  color: yellow;
+}
+.olive,
+#olive {
+  color: olive;
+}
+.lime,
+#lime {
+  color: lime;
+}
+.green,
+#green {
+  color: green;
+}
+.aqua,
+#aqua {
+  color: aqua;
+}
+.teal,
+#teal {
+  color: teal;
+}
+.blue,
+#blue {
+  color: blue;
+}
+.navy,
+#navy {
+  color: navy;
+}
+.fuchsia,
+#fuchsia {
+  color: fuchsia;
+}
+.purple,
+#purple {
+  color: purple;
+}
+/* If you want somthing different, use your own CSS with !important after it to override this code. */
