@@ -2,7 +2,7 @@
 
 ## Introduction
 
-EasyFont is a tool built from CSS to replace the deprecated HTML `<font>` tag and other HTML styling tags.
+EasyFont is a tool built from CSS to replace the deprecated HTML `<font>` tag and other HTML text styling tags.
 
 To use EasyFont, you must first download it.  After downloading, put it in your HTML code with something like this:
 
