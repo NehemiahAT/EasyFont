@@ -48,7 +48,7 @@ Class/ID:  bookman; Function:  make the font family Bookman;
 Class/ID:  braggadocio; Function: Make the font family Braggadocio;
 
 Class/ID:  courier; Function:  make the font family Courier;
-
+,
 Class/ID:  desdemona; Function:  make the font family Desdemona;
 
 Class/ID:  garamond; Function:  make the font family Garamond;
@@ -67,34 +67,34 @@ Class/ID:  supl; Function:  make the text a superscript with a larger font size;
 
 Class/ID:  subl; Function:  make the text a subscript with a larger font size;  
 
-Class/ID:  white; Function:  make the text color white;
+Class/ID:  white; Function:  make the text color white (more specifically, the color with the hex code, `#ffffff`);
 
-Class/ID:  silver; Function:  make the text color silver;
+Class/ID:  silver; Function:  make the text color silver (more specifically, the color with the hex code, `#c0c0c0`);
 
-Class/ID:  gray; Function:  make the text color gray;
+Class/ID:  gray; Function:  make the text color gray (more specifically, the color with the hex code, `#808080`);
 
-Class/ID:  black; Function:  make the text color black;
+Class/ID:  black; Function:  make the text color black (more specifically, the color with the hex code, `#000000`);
 
-Class/ID:  red; Function:  make the text color red;
+Class/ID:  red; Function:  make the text color red (more specifically, the color with the hex code, `#ff0000`);
 
-Class/ID:  maroon; Function:  make the text color maroon;
+Class/ID:  maroon; Function:  make the text color maroon (more specifically, the color with the hex code, `#800000`);
 
-Class/ID:  yellow; Function:  make the text color yellow;
+Class/ID:  yellow; Function:  make the text color yellow (more specifically, the color with the hex code `#ffff00`);
 
-Class/ID:  olive; Function:  make the text color olive;
+Class/ID:  olive; Function:  make the text color olive (more specifically, the color with the hex code, `#808000`);
 
-Class/ID:  lime; Function:  make the text color lime;
+Class/ID:  lime; Function:  make the text color lime (more specifically, the color with the hex code, `#00ff00`);
 
-Class/ID:  green; Function:  make the text color green;
+Class/ID:  green; Function:  make the text color green (more specifically, the color with the hex code, `#008000`);
 
-Class/ID:  aqua; Function:  make the text color aqua;
+Class/ID:  aqua; Function:  make the text color aqua (more specifically, the color with the hex code, `#00ffff`);
 
-Class/ID:  teal; Function:  make the text color teal;
+Class/ID:  teal; Function:  make the text color teal (more specififcally, the color with the hex code, `#008080`);
 
-Class/ID: blue; Function:  make the text color blue;
+Class/ID: blue; Function:  make the text color blue (more specifically, the color with the hex code, `#0000ff`);
 
-Class/ID:  navy; Function:  make the text color navy;
+Class/ID:  navy; Function:  make the text color navy (more specifically, the color with the hex code, `#000080`);
 
-Class/ID:  fuchsia; Function:  make the text color fuchsia;
+Class/ID:  fuchsia; Function:  make the text color fuchsia (more specifically, the color with the hex code, `#ff00ff`);
 
-Class/ID:  purple; Function:  make the text color purple;
+Class/ID:  purple; Function:  make the text color purple (more specifically, the color with the hex code, `#800080`);
