@@ -48,7 +48,7 @@ Class/ID:  bookman; Function:  make the font family Bookman;
 Class/ID:  braggadocio; Function: Make the font family Braggadocio;
 
 Class/ID:  courier; Function:  make the font family Courier;
-,
+
 Class/ID:  desdemona; Function:  make the font family Desdemona;
 
 Class/ID:  garamond; Function:  make the font family Garamond;
