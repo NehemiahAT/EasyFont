@@ -19,7 +19,7 @@ Class/ID: b; Function:  make the text bold;
 
 Class/ID:  u; Function:  make the text underlined;
 
-Class/ID:  tt; Function:  make the font face Lucida Console, Courier, Modern, Rod, or any monospace font face (depending on which fonts are supported on the user’s computer);
+Class/ID:  tt; Function:  make the font face Lucida Console, Courier, Modern, Rod, or any monospace font face (depending on which fonts are supported on the user’s device);
 
 Class/ID:  s; Function:  make the text strikethrough;
 
