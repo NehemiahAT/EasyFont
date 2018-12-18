@@ -1,4 +1,4 @@
-/* v. 1.8 */
+/* v. 1.9 */
 .i,
 #i {
   font-style: italic;
@@ -120,31 +120,31 @@
 
 .white,
 #white {
-  color: white;
+  color: #FFFFFF;
 }
 .silver,
 #silver {
-  color: silver;
+  color: #C0C0C0;
 }
 .gray,
 #gray {
-  color: gray;
+  color: #808080;
 }
 .black,
 #black {
-  color: black;
+  color: #000000;
 }
 .red,
 #red {
-  color: red;
+  color: #FF0000;
 }
 .maroon,
 #maroon {
-  color: maroon;
+  color: #800000;
 }
 .yellow,
 #yellow {
-  color: yellow;
+  color: #FFFF00;
 }
 .olive,
 #olive {
@@ -152,34 +152,34 @@
 }
 .lime,
 #lime {
-  color: lime;
+  color: #00FF00;
 }
 .green,
 #green {
-  color: green;
+  color: #008000;
 }
 .aqua,
 #aqua {
-  color: aqua;
+  color: #00FFFF;
 }
 .teal,
 #teal {
-  color: teal;
+  color: #008080;
 }
 .blue,
 #blue {
-  color: blue;
+  color: #0000FF;
 }
 .navy,
 #navy {
-  color: navy;
+  color: #000080;
 }
 .fuchsia,
 #fuchsia {
-  color: fuchsia;
+  color: #FF00FF;
 }
 .purple,
 #purple {
-  color: purple;
+  color: #800080;
 }
 /* If you want somthing different, use your own CSS with !important after it to override this code. */
