@@ -1,4 +1,4 @@
-/* v. 1.9 */
+/* Developing v. 2.0 */
 .i,
 #i {
   font-style: italic;
@@ -117,7 +117,6 @@
   vertical-align: sub;
   font-size: larger;
 }
-
 .Pink,
 #Pink {
   color: #ffc0cb;
@@ -142,3 +141,298 @@
 #MediumVioletRed {
   color: #c71585;
 }
+.LightSalmon,
+#LightSalmon {
+  color: #ffa07a;
+}
+.Salmon,
+#Salmon {
+  color: #fa8072;
+}
+.DarkSalmon,
+#DarkSalmon {
+  color: #e9967a;
+}
+.LightCoral,
+#LightCoral {
+  color: #f08080;
+}
+.IndianRed,
+#IndianRed {
+  color: #cd5c5c;
+}
+.Crimson,
+#Crimson {
+  color: #dc143c;
+}
+.Firebrick,
+#FireBrick {
+  color: #b22222;
+}
+.DarkRed,
+#DarkRed {
+  color: #8b0000;
+}
+.Red,
+#Red {
+  color: #ff0000;
+}
+.OrangeRed,
+#OrangeRed {
+  color: #ff4500;
+}
+.Tomato,
+#Tomato {
+  color: #ff6347;
+}
+.Coral,
+#Coral {
+  color: #ff7f50;
+}
+.DarkOrange,
+#DarkOrange {
+  color: #ff8c00;
+}
+.Orange,
+#Orange {
+  color: #ffa500;
+}
+.LightYellow,
+#LightYellow {
+  color: #ffffe0;
+}
+.LemonChiffon,
+#LemonCiffon {
+  color: #fffacd;
+}
+.LightGoldenrodYellow,
+#LightGoldenrodYellow {
+  color: #fafad2;
+}
+.PapayaWhip,
+#PapayaWhip {
+  color: #ffefd5;
+}
+.Moccasin,
+#Moccasin {
+  color: #ffe4b5;
+}
+.PeachPuff,
+#PeachPuff {
+  color: #ffdab9;
+}
+.PaleGoldenrod,
+#PaleGoldenRod {
+  color: #eee8aa;
+}
+.Khaki,
+#Khaki {
+  color: #f0e6bc;
+}
+.DarkKhaki,
+#DarkKhaki {
+  color: #bdb76b;
+}
+.Gold,
+#Gold {
+  color: #ffd700;
+}
+
+.Cornsilk,
+#Cornsilk {
+  color: #fff8dc;
+}
+.BlanchedAlmond,
+#BlanchedAlmond {
+  color: #ffebcd;
+}
+.Bisque,
+#Bisque {
+  color: #ffe4c4;
+}
+.NavajoWhite,
+#NavajoWhite {
+  color: #ffdead;
+}
+.Wheat,
+#Wheat {
+  color: #f5deb3;
+}
+.Burlywood,
+#Burlywood {
+  color: #deb887;
+}
+.Tan,
+#Tan {
+  color: #d2b48c;
+}
+.RosyBrown,
+#RosyBrown {
+  color: #bc8f8f;
+}
+.SandyBrown,
+#SandyBrown {
+  color: #f4a460;
+}
+.Goldenrod #Goldenrod {
+  color: #daa520;
+}
+.DarkGoldenrod,
+#DarkGoldenRod {
+  color: #b8860b;
+}
+.Peru,
+#Peru {
+  color: #cd853f;
+}
+.Chocolate,
+#Chocolate {
+  color: #d2691e;
+}
+.SaddleBrown,
+#SaddleBrown {
+  color: #8b4513;
+}
+.Sienna,
+#Sienna {
+  color: #a0522d;
+}
+.Brown,
+#Brown {
+  color: #a52a2a;
+}
+.Maroon,
+#Maroon {
+  color: #800000;
+}
+.DarkOliveGreen,
+#DarkOliveGreen {
+  color: #556b2f;
+}
+.Olive,
+#Olive {
+  color: #808000;
+}
+.OliveDrab,
+#OliveDrab {
+  color: #6b8e23;
+}
+.YellowGreen,
+#YellowGreen {
+  color: #9acd32;
+}
+.LimeGreen,
+#LimeGreem {
+  color: #32cd32;
+}
+.Lime,
+#Lime {
+  color: #00ff00;
+}
+.LawnGreen,
+#LawnGreen {
+  color: #7cfc00;
+}
+.Chartreuse,
+#Chartreuse {
+  color: #7fff00;
+}
+.GreenYellow,
+#GreenYellow {
+  color: #adff2f;
+}
+.SpringGreen,
+#SpringGreen {
+  color: #00ff7f;
+}
+.MediumSpringGreen,
+#MediumSpringGreen {
+  color: #00fa9a;
+}
+.LightGreen,
+#LightGreen {
+  color: #90ee90;
+}
+.PaleGreen,
+#LightGreen {
+  color: #98fb98;
+}
+.DarkSeaGreen,
+#DarkSeaGreem {
+  color: #8fbc8f;
+}
+.MediumAquamarine,
+#MediumAquamarine {
+  color: #66cdaa;
+}
+.MediumSeaGreen,
+#MediumSeaGreen {
+  color: #3cb371;
+}
+.SeaGreen,
+#SeaGreen {
+  color: #2e8b57;
+}
+.ForestGreen,
+#ForestGreen {
+  color: #228b22;
+}
+.Green,
+#Green {
+  color: #008000;
+}
+.DarkGreen,
+#DarkGreen {
+  color: #006400;
+}
+.Aqua,
+#Aqua {
+  color: #00ffff;
+}
+.Cyan,
+#Cyan {
+  color: #00ffff;
+}
+.LightCyan,
+#LightCyan {
+  color: #e0ffff;
+}
+.PaleTurquoise,
+#PaleTurquoise {
+  color: #afeeee;
+}
+.Aquamarine,
+#Aquamarine {
+  color: #7fffd4;
+}
+.Turquoise,
+#Turquoise {
+  color: #40e0d0;
+}
+.MediumTurquoise,
+#MediumTurquoise {
+  color: #48d1cc;
+}
+.DarkTurquoise,
+#DarkTurquoise {
+  color: #00ced1;
+}
+.LightSeaGreen,
+#LightSeaGreen {
+  color: #20b2aa;
+}
+.CadetBlue,
+#CadetBlue {
+  color: #5f9ea0;
+}
+.DarkCyan,
+#DarkCyan {
+  color: #008b8b;
+}
+.Teal,
+#Teal {
+  color: #008080;
+}
+
+
+
