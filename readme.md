@@ -6,7 +6,7 @@ EasyFont is a tool built from CSS to replace the deprecated HTML `<font>` tag an
 
 To use EasyFont, you must first download it.  After downloading, put it in your HTML code with something like this:
 
-`<link rel="stylesheet" type="text/css" href="/css/easy-font.css" />`.
+`<link rel="stylesheet" type="text/css" href="/css/easy-font.css">`.
 
 ## How to Use EasyFont
 
