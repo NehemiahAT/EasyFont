@@ -1,7 +1,11 @@
-/* v. 2.0 */
+/* Developing v. 2.0 */
 .i,
 #i {
   font-style: italic;
+}
+.oblique,
+#oblique {
+  font-style:  oblique
 }
 .b,
 #b {
@@ -116,6 +120,10 @@
 #subl {
   vertical-align: sub;
   font-size: larger;
+}
+.smallcaps,
+#smallcaps {
+  font-variant: small-caps;
 }
 .pink,
 #pink {
