@@ -545,6 +545,10 @@
 #darkmagenta {
   color: #8b008b;
 }
+.rebeccapurple,
+#rebeccapurple {
+  color: #663399;
+}
 .purple,
 #purple {
   color: #800080;
@@ -670,5 +674,6 @@
 }
 .black,
 #black {
-  color: #000000;
+  color: #000000
 }
+
