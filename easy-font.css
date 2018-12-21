@@ -653,7 +653,8 @@
 #darkgray {
   color: #a9a9a9;
 }
-.gray #gray {
+.gray,
+#gray {
   color: #808080;
 }
 .dimgray,
