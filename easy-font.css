@@ -117,451 +117,558 @@
   vertical-align: sub;
   font-size: larger;
 }
-.Pink,
-#Pink {
+.pink,
+#pink {
   color: #ffc0cb;
 }
-.LightPink,
-#LightPink {
+.lightpink,
+#lightpink {
   color: #ffb6c1;
 }
-.HotPink,
-#HotPink {
+.hotpink,
+#hotpink {
   color: #ff69b4;
 }
-.DeepPink,
-#DeepPink {
+.deeppink,
+#deeppink {
   color: #ff1493;
 }
-.PaleVioletRed,
-#PaleVioletRed {
+.palevioletred,
+#palevioletred {
   color: #db7093;
 }
-.MediumVioletRed,
-#MediumVioletRed {
+.mediumvioletred,
+#mediumvioletred {
   color: #c71585;
 }
-.LightSalmon,
-#LightSalmon {
+.lightsalmon,
+#lightsalmon {
   color: #ffa07a;
 }
-.Salmon,
-#Salmon {
+.salmon,
+#salmon {
   color: #fa8072;
 }
-.DarkSalmon,
-#DarkSalmon {
+.darksalmon,
+#darksalmon {
   color: #e9967a;
 }
-.LightCoral,
+.lightcoral,
 #LightCoral {
   color: #f08080;
 }
-.IndianRed,
-#IndianRed {
+.indianred,
+#indianred {
   color: #cd5c5c;
 }
-.Crimson,
-#Crimson {
+.crimson,
+#crimson {
   color: #dc143c;
 }
-.Firebrick,
-#FireBrick {
+.firebrick,
+#firebrick {
   color: #b22222;
 }
-.DarkRed,
-#DarkRed {
+.darkred,
+#darkred {
   color: #8b0000;
 }
-.Red,
-#Red {
+.red,
+#red {
   color: #ff0000;
 }
-.OrangeRed,
-#OrangeRed {
+.orangered,
+#orangered {
   color: #ff4500;
 }
-.Tomato,
-#Tomato {
+.tomato,
+#tomato {
   color: #ff6347;
 }
-.Coral,
-#Coral {
+.coral,
+#coral {
   color: #ff7f50;
 }
-.DarkOrange,
-#DarkOrange {
+.darkorange,
+#darkorange {
   color: #ff8c00;
 }
-.Orange,
-#Orange {
+.orange,
+#orange {
   color: #ffa500;
 }
-.LightYellow,
-#LightYellow {
+.lightyellow,
+#lightyellow {
   color: #ffffe0;
 }
-.LemonChiffon,
-#LemonCiffon {
+.lemonchiffon,
+#lemonciffon {
   color: #fffacd;
 }
-.LightGoldenrodYellow,
-#LightGoldenrodYellow {
+.lightgoldenrodyellow,
+#lightgoldenrodyellow {
   color: #fafad2;
 }
-.PapayaWhip,
-#PapayaWhip {
+.papayawhip,
+#papayawhip {
   color: #ffefd5;
 }
-.Moccasin,
-#Moccasin {
+.moccasin,
+#moccasin {
   color: #ffe4b5;
 }
-.PeachPuff,
-#PeachPuff {
+.peachpuff,
+#peachpuff {
   color: #ffdab9;
 }
-.PaleGoldenrod,
-#PaleGoldenRod {
+.palegoldenrod,
+#palegoldenrod {
   color: #eee8aa;
 }
-.Khaki,
-#Khaki {
+.khaki,
+#khaki {
   color: #f0e6bc;
 }
-.DarkKhaki,
-#DarkKhaki {
+.darkkhaki,
+#darkkhaki {
   color: #bdb76b;
 }
-.Gold,
-#Gold {
+.gold,
+#gold {
   color: #ffd700;
 }
 
-.Cornsilk,
-#Cornsilk {
+.cornsilk,
+#cornsilk {
   color: #fff8dc;
 }
-.BlanchedAlmond,
-#BlanchedAlmond {
+.blanchedalmond,
+#blanchedalmond {
   color: #ffebcd;
 }
-.Bisque,
-#Bisque {
+.bisque,
+#bisque {
   color: #ffe4c4;
 }
-.NavajoWhite,
-#NavajoWhite {
+.navajowhite,
+#navajowhite {
   color: #ffdead;
 }
-.Wheat,
-#Wheat {
+.wheat,
+#wheat {
   color: #f5deb3;
 }
-.Burlywood,
-#Burlywood {
+.burlywood,
+#burlywood {
   color: #deb887;
 }
-.Tan,
-#Tan {
+.tan,
+#tan {
   color: #d2b48c;
 }
-.RosyBrown,
-#RosyBrown {
+.rosybrown,
+#rosybrown {
   color: #bc8f8f;
 }
-.SandyBrown,
-#SandyBrown {
+.sandybrown,
+#sandybrown {
   color: #f4a460;
 }
-.Goldenrod #Goldenrod {
+.goldenrod #goldenrod {
   color: #daa520;
 }
-.DarkGoldenrod,
-#DarkGoldenRod {
+.darkgoldenrod,
+#darkgoldenrod {
   color: #b8860b;
 }
-.Peru,
-#Peru {
+.peru,
+#peru {
   color: #cd853f;
 }
-.Chocolate,
-#Chocolate {
+.chocolate,
+#chocolate {
   color: #d2691e;
 }
-.SaddleBrown,
-#SaddleBrown {
+.saddlebrown,
+#saddlebrown {
   color: #8b4513;
 }
-.Sienna,
-#Sienna {
+.sienna,
+#sienna {
   color: #a0522d;
 }
-.Brown,
-#Brown {
+.brown,
+#brown {
   color: #a52a2a;
 }
-.Maroon,
-#Maroon {
+.maroon,
+#maroon {
   color: #800000;
 }
-.DarkOliveGreen,
-#DarkOliveGreen {
+.darkolivegreen,
+#darkolivegreen {
   color: #556b2f;
 }
-.Olive,
-#Olive {
+.olive,
+#olive {
   color: #808000;
 }
-.OliveDrab,
-#OliveDrab {
+.olivedrab,
+#olivedrab {
   color: #6b8e23;
 }
-.YellowGreen,
-#YellowGreen {
+.yellowgreen,
+#yellowgreen {
   color: #9acd32;
 }
-.LimeGreen,
-#LimeGreem {
+.limegreen,
+#limegreem {
   color: #32cd32;
 }
-.Lime,
-#Lime {
+.lime,
+#lime {
   color: #00ff00;
 }
-.LawnGreen,
-#LawnGreen {
+.lawngreen,
+#lawngreen {
   color: #7cfc00;
 }
-.Chartreuse,
-#Chartreuse {
+.chartreuse,
+#chartreuse {
   color: #7fff00;
 }
-.GreenYellow,
-#GreenYellow {
+.greenyellow,
+#greenyellow {
   color: #adff2f;
 }
-.SpringGreen,
-#SpringGreen {
+.springgreen,
+#springgreen {
   color: #00ff7f;
 }
-.MediumSpringGreen,
-#MediumSpringGreen {
+.mediumspringgreen,
+#mediumspringgreen {
   color: #00fa9a;
 }
-.LightGreen,
-#LightGreen {
+.lightgreen,
+#lightgreen {
   color: #90ee90;
 }
-.PaleGreen,
-#PaleGreen {
+.palegreen,
+#palegreen {
   color: #98fb98;
 }
-.DarkSeaGreen,
-#DarkSeaGreen {
+.darkseagreen,
+#darkseagreen {
   color: #8fbc8f;
 }
-.MediumAquamarine,
-#MediumAquamarine {
+.mediumaquamarine,
+#mediumaquamarine {
   color: #66cdaa;
 }
-.MediumSeaGreen,
-#MediumSeaGreen {
+.mediumseagreen,
+#mediumseagreen {
   color: #3cb371;
 }
-.SeaGreen,
-#SeaGreen {
+.seagreen,
+#seagreen {
   color: #2e8b57;
 }
-.ForestGreen,
-#ForestGreen {
+.forestgreen,
+#forestgreen {
   color: #228b22;
 }
-.Green,
-#Green {
+.green,
+#green {
   color: #008000;
 }
-.DarkGreen,
-#DarkGreen {
+.darkgreen,
+#darkgreen {
   color: #006400;
 }
-.Aqua,
-#Aqua {
+.aqua,
+#aqua {
   color: #00ffff;
 }
-.Cyan,
-#Cyan {
+.cyan,
+#cyan {
   color: #00ffff;
 }
-.LightCyan,
-#LightCyan {
+.lightcyan,
+#lightcyan {
   color: #e0ffff;
 }
-.PaleTurquoise,
-#PaleTurquoise {
+.paleturquoise,
+#paleturquoise {
   color: #afeeee;
 }
-.Aquamarine,
-#Aquamarine {
+.aquamarine,
+#aquamarine {
   color: #7fffd4;
 }
-.Turquoise,
-#Turquoise {
+.turquoise,
+#turquoise {
   color: #40e0d0;
 }
-.MediumTurquoise,
-#MediumTurquoise {
+.mediumturquoise,
+#mediumturquoise {
   color: #48d1cc;
 }
-.DarkTurquoise,
-#DarkTurquoise {
+.darkturquoise,
+#darkturquoise {
   color: #00ced1;
 }
-.LightSeaGreen,
-#LightSeaGreen {
+.lightseagreen,
+#lightseagreen {
   color: #20b2aa;
 }
-.CadetBlue,
-#CadetBlue {
+.cadetblue,
+#cadetblue {
   color: #5f9ea0;
 }
-.DarkCyan,
-#DarkCyan {
+.darkcyan,
+#darkcyan {
   color: #008b8b;
 }
-.Teal,
-#Teal {
+.teal,
+#teal {
   color: #008080;
 }
-.LightSteelBlue,
-#LightSteelBlue {
+.lightsteelblue,
+#lightsteelblue {
   color: #b0c4de;
 }
-.PowderBlue,
-#PowderBlue {
+.powderblue,
+#powderblue {
   color: #b0e0e6;
 }
-.LightBlue,
-#LightBlue {
+.lightblue,
+#lightblue {
   color: #add8e6;
 }
-.SkyBlue,
-#SkyBlue {
+.skyblue,
+#skyblue {
   color: #87ceeb;
 }
-.LightSkyBlue,
-#LightSkyBlue {
+.lightskyblue,
+#lightskyblue {
   color: #87cefa;
 }
-.DeepSkyBlue,
-#DeepSkyBlue {
+.deepskyblue,
+#deepskyblue {
   color: #00bfff;
 }
-.DodgerBlue,
-#DodgerBlue {
+.dodgerblue,
+#dodgerblue {
   color: #1e90ff;
 }
-.CornflowerBlue,
-#CornflowerBlue {
+.cornflowerblue,
+#cornflowerblue {
   color: #6495ed;
 }
-.SteelBlue,
-#SteelBlue {
+.steelblue,
+#steelblue {
   color: #4682b4;
 }
-.RoyalBlue,
-#RoyalBlue {
+.royalblue,
+#royalblue {
   color: #4169e1;
 }
-.Blue,
-#Blue {
+.blue,
+#blue {
   color: #0000ff;
 }
-.MediumBlue,
-#MediumBlue {
+.mediumblue,
+#mediumblue {
   color: #0000cd;
 }
-.DarkBlue,
-#DarkBlue {
+.darkblue,
+#darkblue {
   color: #00008b;
 }
-.Navy,
-#Navy {
+.navy,
+#navy {
   color: #000080;
 }
-.MidnightBlue,
-#MidnightBlue {
+.midnightblue,
+#midnightblue {
   color: #191970;
 }
-.Lavender,
-#Lavender {
+.lavender,
+#lavender {
   color: #e6e6fa;
 }
-.Thistle,
-#Thistle {
+.thistle,
+#thistle {
   color: #d8bfd8;
 }
-.Plum,
-#Plum {
+.plum,
+#plum {
   color: #dda0dd;
 }
-.Violet,
-#Violet {
+.violet,
+#violet {
   color: #ee82ee;
 }
-.Orchid,
-#Orchid {
+.orchid,
+#orchid {
   color: #da70d6;
 }
-.Fuchsia,
-#Fuchsia {
+.fuchsia,
+#fuchsia {
   color: #ff00ff;
 }
-.Magenta,
-#Magenta {
+.magenta,
+#magenta {
   color: #ff00ff;
 }
-.MediumOrchid,
-#MediumOrchid {
+.mediumorchid,
+#mediumorchid {
   color: #ba55d3;
 }
-.MediumPurple,
-#MediumPurple {
+.mediumpurple,
+#mediumpurple {
   color: #9370db;
 }
-.BlueViolet,
-#BlueViolet {
+.blueviolet,
+#blueviolet {
   color: #8a2be2;
 }
-.DarkViolet,
-#DarkViolet {
+.darkviolet,
+#darkviolet {
   color: #9400d3;
 }
-.DarkOrchid,
-#DarkOrchid {
+.darkorchid,
+#darkorchid {
   color: #9932cc;
 }
-.DarkMagenta,
-#DarkMagenta {
+.darkmagenta,
+#darkmagenta {
   color: #8b008b;
 }
-.Purple,
-#Purple {
+.purple,
+#purple {
   color: #800080;
 }
-.Indigo,
-#Indigo {
+.indigo,
+#indigo {
   color: #4b0082;
 }
-.DarkSlateBlue,
-#DarkSlateBlue {
+.darkslateblue,
+#darkslateblue {
   color: #483d8b;
 }
-.SlateBlue,
-#SlateBlue {
+.slateblue,
+#slateblue {
   color: #6a5acd;
 }
-.MediumSlateBlue,
-#MediumSlateBlue {
+.mediumslateblue,
+#mediumslateblue {
   color: #7b68ee;
+}
+.white,
+#white {
+  color: #ffffff;
+}
+.snow,
+#snow {
+  color: #fffafa;
+}
+.honeydew,
+#honeydew {
+  color: #f0fff0;
+}
+.mintcream,
+#mintcream {
+  color: #f5fffa;
+}
+.azure,
+#azure {
+  color: #f0ffff;
+}
+.aliceblue,
+#aliceblue {
+  color: #f0f8ff;
+}
+.ghostwhite,
+#ghostwhite {
+  color: #f8f8ff;
+}
+.whitesmoke,
+#whitesmoke {
+  color: #f5f5f5;
+}
+.seashell,
+#seashell {
+  color: #fff5ee;
+}
+.beige,
+#beige {
+  color: #f5f5dc;
+}
+.oldlace,
+#oldlace {
+  color: #fdf5e6;
+}
+.floralwhite,
+#floralwhite {
+  color: #fffaf0;
+}
+.ivory,
+#ivory {
+  color: #fffff0;
+}
+.antiquewhite,
+#antiquewhite {
+  color: #faebd7;
+}
+.linen,
+#linen {
+  color: #faf0e6;
+}
+.lavenderblush,
+#lavenderblush {
+  color: #fff0f5;
+}
+.mistyrose,
+#mistyrose {
+  color: #ffe4e1;
+}
+.gainsboro,
+#gainsboro {
+  color: #dcdcdc;
+}
+.lightgray,
+#lightgray {
+  color: #d3d3d3;
+}
+.silver,
+#silver {
+  color: #c0c0c0;
+}
+.darkgray,
+#darkgray {
+  color: #a9a9a9;
+}
+.gray #gray {
+  color: #808080;
+}
+.dimgray,
+#dimgray {
+  color: #696969;
+}
+.lightslategray,
+#lightslategray {
+  color: #778899;
+}
+.slategray,
+#slategray {
+  color: #708090;
+}
+.darkslategray,
+#darkslategray {
+  color: #2f4f4f;
+}
+.black,
+#black {
+  color: #000000;
 }
