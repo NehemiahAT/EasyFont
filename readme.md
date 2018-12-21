@@ -10,7 +10,7 @@ To use EasyFont, you must first download it.  After downloading, put it in your 
 
 ## How to Use EasyFont
 
-Once you have EasyFont in your HTML, you must tell it how to style the parts of the HTML file you want the way you want them to be.  To do this, you can use either CSS classes or IDs or both.  Here are the things that all the different classes and IDs in EasyFont do:
+Once you have EasyFont in your HTML, you must tell it how to style the parts of the HTML file you want the way you want them to be.  To do this, you can use either classes or IDs or both.  Here are the things that all the different classes and IDs in EasyFont do:
 
 
 Class/ID: `i`; Function:  make the text italic;
