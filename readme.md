@@ -14,6 +14,8 @@ Once you have EasyFont in your HTML, you must tell it how to style the parts of 
 
 Class/ID: `i`; Function:  make the text italic;
 
+Class/ID:  `oblique`; Function: make the text oblique;
+
 Class/ID: `b`; Function:  make the text bold;
 
 Class/ID:  `u`; Function:  make the text underlined;
