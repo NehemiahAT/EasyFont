@@ -1,184 +1,1391 @@
-/* v. 1.9 */
+/* v. 2.0 */
 .i,
+
 #i {
+
   font-style: italic;
+
 }
+
+.oblique,
+
+#oblique {
+
+  font-style:  oblique
+
+}
+
 .b,
+
 #b {
-  font-weight: bold;
+
+  font-weight:  bold;
+
 }
 
 .u,
+
 #u {
+
   text-decoration: underline;
+
 }
 
 .tt,
+
 #tt {
-  font-family: lucida console, courier, modern, rod, monospace;
+
+  font-family:  lucida console, courier, modern, rod, monospace;
+
 }
+
 .s,
+
 #s {
+
   text-decoration: line-through;
+
 }
+
 .o,
+
 #o {
+
   text-decoration: overline;
+
 }
 
 .center,
+
 #center {
+
   text-align: center;
+
 }
+
 .right,
+
 #right {
+
   text-align: right;
+
 }
+
 .left,
+
 #left {
+
   text-align: left;
+
+}
+
+.justify,
+
+#justify {
+
+  text-align: justify;
+
 }
 
 .size-1,
+
 #size-1 {
+
   font-size: 10px;
+
 }
+
 .size-2,
+
 #size-2 {
+
   font-size: 20px;
+
 }
+
 .size-3,
+
 #size-3 {
+
   font-size: 30px;
+
 }
+
 .size-4,
+
 #size-4 {
+
   font-size: 40px;
+
 }
 
 .arial,
+
 #arial {
+
   font-family: arial;
+
 }
+
 .algerian,
+
 #algerian {
+
   font-family: algerian;
+
 } 
+
 .bookman,
+
 #bookman {
+
   font-family: bookman;
+
 }
+
 .braggadocio,
+
 #braggadocio {
+
   font-family: braggadocio;
+
 }
+
 .courier,
+
 #courier {
+
   font-family: courier;
+
 }
+
 .desdemona,
+
 #desdemona {
+
   font-family: desdemona;
+
 }
+
 .garamond,
+
 #garamond {
+
   font-family: garamond;
+
 }
+
 .modern,
+
 #modern {
+
   font-family: modern;
+
 }
+
 .symbol,
+
 #symbol {
+
   font-family: symbol;
+
 }
+
 .wingdings,
+
 #wingdings {
+
   font-family: wingdings;
+
 }
 
 .sups,
+
 #sups {
+
   vertical-align: super;
+
   font-size: smaller;
+
 }
+
 .subs,
+
 #subs {
+
   vertical-align: sub;
+
   font-size: smaller;
+
 }
+
 .supl,
+
 #supl {
+
   vertical-align: super;
+
   font-size: larger;
+
 }
+
 .subl,
+
 #subl {
+
   vertical-align: sub;
+
   font-size: larger;
+
+}
+
+.smallcaps,
+
+#smallcaps {
+
+  font-variant: small-caps;
+
+}
+
+.uppercase,
+
+#uppercase {
+
+   text-transform: uppercase;
+
+}
+
+.lowercase,
+
+#lowercase {
+
+  text-transform: lowercase;
+
+}
+
+.capitalize,
+
+#capitalize {
+
+  text-transform: capitalize;
+
+}
+
+.pink,
+
+#pink {
+
+  color: #ffc0cb;
+
+}
+
+.lightpink,
+
+#lightpink {
+
+  color: #ffb6c1;
+
+}
+
+.hotpink,
+
+#hotpink {
+
+  color: #ff69b4;
+
+}
+
+.deeppink,
+
+#deeppink {
+
+  color: #ff1493;
+
+}
+
+.palevioletred,
+
+#palevioletred {
+
+  color: #db7093;
+
+}
+
+.mediumvioletred,
+
+#mediumvioletred {
+
+  color: #c71585;
+
+}
+
+.lightsalmon,
+
+#lightsalmon {
+
+  color: #ffa07a;
+
+}
+
+.salmon,
+
+#salmon {
+
+  color: #fa8072;
+
+}
+
+.darksalmon,
+
+#darksalmon {
+
+  color: #e9967a;
+
+}
+
+.lightcoral,
+
+#lightcoral {
+
+  color: #f08080;
+
+}
+
+.indianred,
+
+#indianred {
+
+  color: #cd5c5c;
+
+}
+
+.crimson,
+
+#crimson {
+
+  color: #dc143c;
+
+}
+
+.firebrick,
+
+#firebrick {
+
+  color: #b22222;
+
+}
+
+.darkred,
+
+#darkred {
+
+  color: #8b0000;
+
+}
+
+.red,
+
+#red {
+
+  color: #ff0000;
+
+}
+
+.orangered,
+
+#orangered {
+
+  color: #ff4500;
+
+}
+
+.tomato,
+
+#tomato {
+
+  color: #ff6347;
+
+}
+
+.coral,
+
+#coral {
+
+  color: #ff7f50;
+
+}
+
+.darkorange,
+
+#darkorange {
+
+  color: #ff8c00;
+
+}
+
+.orange,
+
+#orange {
+
+  color: #ffa500;
+
+}
+
+.lightyellow,
+
+#lightyellow {
+
+  color: #ffffe0;
+
+}
+
+.lemonchiffon,
+
+#lemonciffon {
+
+  color: #fffacd;
+
+}
+
+.lightgoldenrodyellow,
+
+#lightgoldenrodyellow {
+
+  color: #fafad2;
+
+}
+
+.papayawhip,
+
+#papayawhip {
+
+  color: #ffefd5;
+
+}
+
+.moccasin,
+
+#moccasin {
+
+  color: #ffe4b5;
+
+}
+
+.peachpuff,
+
+#peachpuff {
+
+  color: #ffdab9;
+
+}
+
+.palegoldenrod,
+
+#palegoldenrod {
+
+  color: #eee8aa;
+
+}
+
+.khaki,
+
+#khaki {
+
+  color: #f0e6bc;
+
+}
+
+.darkkhaki,
+
+#darkkhaki {
+
+  color: #bdb76b;
+
+}
+
+.gold,
+
+#gold {
+
+  color: #ffd700;
+
+}
+
+.cornsilk,
+
+#cornsilk {
+
+  color: #fff8dc;
+
+}
+
+.blanchedalmond,
+
+#blanchedalmond {
+
+  color: #ffebcd;
+
+}
+
+.bisque,
+
+#bisque {
+
+  color: #ffe4c4;
+
+}
+
+.navajowhite,
+
+#navajowhite {
+
+  color: #ffdead;
+
+}
+
+.wheat,
+
+#wheat {
+
+  color: #f5deb3;
+
+}
+
+.burlywood,
+
+#burlywood {
+
+  color: #deb887;
+
+}
+
+.tan,
+
+#tan {
+
+  color: #d2b48c;
+
+}
+
+.rosybrown,
+
+#rosybrown {
+
+  color: #bc8f8f;
+
+}
+
+.sandybrown,
+
+#sandybrown {
+
+  color: #f4a460;
+
+}
+
+.goldenrod #goldenrod {
+
+  color: #daa520;
+
+}
+
+.darkgoldenrod,
+
+#darkgoldenrod {
+
+  color: #b8860b;
+
+}
+
+.peru,
+
+#peru {
+
+  color: #cd853f;
+
+}
+
+.chocolate,
+
+#chocolate {
+
+  color: #d2691e;
+
+}
+
+.saddlebrown,
+
+#saddlebrown {
+
+  color: #8b4513;
+
+}
+
+.sienna,
+
+#sienna {
+
+  color: #a0522d;
+
+}
+
+.brown,
+
+#brown {
+
+  color: #a52a2a;
+
+}
+
+.maroon,
+
+#maroon {
+
+  color: #800000;
+
+}
+
+.darkolivegreen,
+
+#darkolivegreen {
+
+  color: #556b2f;
+
+}
+
+.olive,
+
+#olive {
+
+  color: #808000;
+
+}
+
+.olivedrab,
+
+#olivedrab {
+
+  color: #6b8e23;
+
+}
+
+.yellowgreen,
+
+#yellowgreen {
+
+  color: #9acd32;
+
+}
+
+.limegreen,
+
+#limegreem {
+
+  color: #32cd32;
+
+}
+
+.lime,
+
+#lime {
+
+  color: #00ff00;
+
+}
+
+.lawngreen,
+
+#lawngreen {
+
+  color: #7cfc00;
+
+}
+
+.chartreuse,
+
+#chartreuse {
+
+  color: #7fff00;
+
+}
+
+.greenyellow,
+
+#greenyellow {
+
+  color: #adff2f;
+
+}
+
+.springgreen,
+
+#springgreen {
+
+  color: #00ff7f;
+
+}
+
+.mediumspringgreen,
+
+#mediumspringgreen {
+
+  color: #00fa9a;
+
+}
+
+.lightgreen,
+
+#lightgreen {
+
+  color: #90ee90;
+
+}
+
+.palegreen,
+
+#palegreen {
+
+  color: #98fb98;
+
+}
+
+.darkseagreen,
+
+#darkseagreen {
+
+  color: #8fbc8f;
+
+}
+
+.mediumaquamarine,
+
+#mediumaquamarine {
+
+  color: #66cdaa;
+
+}
+
+.mediumseagreen,
+
+#mediumseagreen {
+
+  color: #3cb371;
+
+}
+
+.seagreen,
+
+#seagreen {
+
+  color: #2e8b57;
+
+}
+
+.forestgreen,
+
+#forestgreen {
+
+  color: #228b22;
+
+}
+
+.green,
+
+#green {
+
+  color: #008000;
+
+}
+
+.darkgreen,
+
+#darkgreen {
+
+  color: #006400;
+
+}
+
+.aqua,
+
+#aqua {
+
+  color: #00ffff;
+
+}
+
+.cyan,
+
+#cyan {
+
+  color: #00ffff;
+
+}
+
+.lightcyan,
+
+#lightcyan {
+
+  color: #e0ffff;
+
+}
+
+.paleturquoise,
+
+#paleturquoise {
+
+  color: #afeeee;
+
+}
+
+.aquamarine,
+
+#aquamarine {
+
+  color: #7fffd4;
+
+}
+
+.turquoise,
+
+#turquoise {
+
+  color: #40e0d0;
+
+}
+
+.mediumturquoise,
+
+#mediumturquoise {
+
+  color: #48d1cc;
+
+}
+
+.darkturquoise,
+
+#darkturquoise {
+
+  color: #00ced1;
+
+}
+
+.lightseagreen,
+
+#lightseagreen {
+
+  color: #20b2aa;
+
+}
+
+.cadetblue,
+
+#cadetblue {
+
+  color: #5f9ea0;
+
+}
+
+.darkcyan,
+
+#darkcyan {
+
+  color: #008b8b;
+
+}
+
+.teal,
+
+#teal {
+
+  color: #008080;
+
+}
+
+.lightsteelblue,
+
+#lightsteelblue {
+
+  color: #b0c4de;
+
+}
+
+.powderblue,
+
+#powderblue {
+
+  color: #b0e0e6;
+
+}
+
+.lightblue,
+
+#lightblue {
+
+  color: #add8e6;
+
+}
+
+.skyblue,
+
+#skyblue {
+
+  color: #87ceeb;
+
+}
+
+.lightskyblue,
+
+#lightskyblue {
+
+  color: #87cefa;
+
+}
+
+.deepskyblue,
+
+#deepskyblue {
+
+  color: #00bfff;
+
+}
+
+.dodgerblue,
+
+#dodgerblue {
+
+  color: #1e90ff;
+
+}
+
+.cornflowerblue,
+
+#cornflowerblue {
+
+  color: #6495ed;
+
+}
+
+.steelblue,
+
+#steelblue {
+
+  color: #4682b4;
+
+}
+
+.royalblue,
+
+#royalblue {
+
+  color: #4169e1;
+
+}
+
+.blue,
+
+#blue {
+
+  color: #0000ff;
+
+}
+
+.mediumblue,
+
+#mediumblue {
+
+  color: #0000cd;
+
+}
+
+.darkblue,
+
+#darkblue {
+
+  color: #00008b;
+
+}
+
+.navy,
+
+#navy {
+
+  color: #000080;
+
+}
+
+.midnightblue,
+
+#midnightblue {
+
+  color: #191970;
+
+}
+
+.lavender,
+
+#lavender {
+
+  color: #e6e6fa;
+
+}
+
+.thistle,
+
+#thistle {
+
+  color: #d8bfd8;
+
+}
+
+.plum,
+
+#plum {
+
+  color: #dda0dd;
+
+}
+
+.violet,
+
+#violet {
+
+  color: #ee82ee;
+
+}
+
+.orchid,
+
+#orchid {
+
+  color: #da70d6;
+
+}
+
+.fuchsia,
+
+#fuchsia {
+
+  color: #ff00ff;
+
+}
+
+.magenta,
+
+#magenta {
+
+  color: #ff00ff;
+
+}
+
+.mediumorchid,
+
+#mediumorchid {
+
+  color: #ba55d3;
+
+}
+
+.mediumpurple,
+
+#mediumpurple {
+
+  color: #9370db;
+
+}
+
+.blueviolet,
+
+#blueviolet {
+
+  color: #8a2be2;
+
+}
+
+.darkviolet,
+
+#darkviolet {
+
+  color: #9400d3;
+
+}
+
+.darkorchid,
+
+#darkorchid {
+
+  color: #9932cc;
+
+}
+
+.darkmagenta,
+
+#darkmagenta {
+
+  color: #8b008b;
+
+}
+
+.rebeccapurple,
+
+#rebeccapurple {
+
+  color: #663399;
+
+}
+
+.purple,
+
+#purple {
+
+  color: #800080;
+
+}
+
+.indigo,
+
+#indigo {
+
+  color: #4b0082;
+
+}
+
+.darkslateblue,
+
+#darkslateblue {
+
+  color: #483d8b;
+
+}
+
+.slateblue,
+
+#slateblue {
+
+  color: #6a5acd;
+
+}
+
+.mediumslateblue,
+
+#mediumslateblue {
+
+  color: #7b68ee;
+
 }
 
 .white,
+
 #white {
+
   color: #ffffff;
+
 }
+
+.snow,
+
+#snow {
+
+  color: #fffafa;
+
+}
+
+.honeydew,
+
+#honeydew {
+
+  color: #f0fff0;
+
+}
+
+.mintcream,
+
+#mintcream {
+
+  color: #f5fffa;
+
+}
+
+.azure,
+
+#azure {
+
+  color: #f0ffff;
+
+}
+
+.aliceblue,
+
+#aliceblue {
+
+  color: #f0f8ff;
+
+}
+
+.ghostwhite,
+
+#ghostwhite {
+
+  color: #f8f8ff;
+
+}
+
+.whitesmoke,
+
+#whitesmoke {
+
+  color: #f5f5f5;
+
+}
+
+.seashell,
+
+#seashell {
+
+  color: #fff5ee;
+
+}
+
+.beige,
+
+#beige {
+
+  color: #f5f5dc;
+
+}
+
+.oldlace,
+
+#oldlace {
+
+  color: #fdf5e6;
+
+}
+
+.floralwhite,
+
+#floralwhite {
+
+  color: #fffaf0;
+
+}
+
+.ivory,
+
+#ivory {
+
+  color: #fffff0;
+
+}
+
+.antiquewhite,
+
+#antiquewhite {
+
+  color: #faebd7;
+
+}
+
+.linen,
+
+#linen {
+
+  color: #faf0e6;
+
+}
+
+.lavenderblush,
+
+#lavenderblush {
+
+  color: #fff0f5;
+
+}
+
+.mistyrose,
+
+#mistyrose {
+
+  color: #ffe4e1;
+
+}
+
+.gainsboro,
+
+#gainsboro {
+
+  color: #dcdcdc;
+
+}
+
+.lightgray,
+
+#lightgray {
+
+  color: #d3d3d3;
+
+}
+
 .silver,
+
 #silver {
+
   color: #c0c0c0;
+
 }
+
+.darkgray,
+
+#darkgray {
+
+  color: #a9a9a9;
+
+}
+
 .gray,
+
 #gray {
+
   color: #808080;
+
 }
+
+.dimgray,
+
+#dimgray {
+
+  color: #696969;
+
+}
+
+.lightslategray,
+
+#lightslategray {
+
+  color: #778899;
+
+}
+
+.slategray,
+
+#slategray {
+
+  color: #708090;
+
+}
+
+.darkslategray,
+
+#darkslategray {
+
+  color: #2f4f4f;
+
+}
+
 .black,
+
 #black {
+
   color: #000000;
+
 }
-.red,
-#red {
-  color: #ff0000;
-}
-.maroon,
-#maroon {
-  color: #800000;
-}
-.yellow,
-#yellow {
-  color: #ffff00;
-}
-.olive,
-#olive {
-  color: #808000;
-}
-.lime,
-#lime {
-  color: #00ff00;
-}
-.green,
-#green {
-  color: #008000;
-}
-.aqua,
-#aqua {
-  color: #00ffff;
-}
-.teal,
-#teal {
-  color: #008080;
-}
-.blue,
-#blue {
-  color: #0000ff;
-}
-.navy,
-#navy {
-  color: #000080;
-}
-.fuchsia,
-#fuchsia {
-  color: #ff00ff;
-}
-.purple,
-#purple {
-  color: #800080;
-}
+
