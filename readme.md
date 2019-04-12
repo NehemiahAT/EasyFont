@@ -76,4 +76,4 @@ Class/ID:  `lowercase`; Function:  make the text all lowercase;
 
 Class/ID:  `capitalize`; Function:  capitalize every word in the text.
 
-You can also change the text color to any color in the X11 color set and the CSS4 color `rebeccapurple` using EasyFont. To do this, you simply make the class or ID of the text you wish to change to a color the color you wish to change it to in all lowercase and with hyphens in place of spaces.
+You can also change the text color to any color in the X11 color set and the CSS4 color `rebeccapurple` using EasyFont. To do this, you simply make the class or ID of the text you wish to change to a color the color you wish to change it to in all lowercase and with no spaces.
